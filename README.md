@@ -1,6 +1,6 @@
 # 🚨Avviso🚨
 
-The `.exe` file must be run as administrator.
+The file `.exe` file must be run as administrator.
 
 ## Functioning
 
