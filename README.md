@@ -1,6 +1,6 @@
 # 🚨Avviso🚨
 
-The file `.exe` file must be run as administrator.
+The file `.exe` must be run as administrator.
 
 ### How to use
 1. Download the zip
