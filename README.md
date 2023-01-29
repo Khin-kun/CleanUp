@@ -2,7 +2,7 @@
 
 The file `.exe` must be run as administrator.
 
-### How to use
+### 👉How to use 
 1. Download the zip
 2. Extract folders to a folder of your choice
 3. The shortcut file you find you can put it on the desktop
