@@ -2,7 +2,7 @@
 
 The file `.exe` file must be run as administrator.
 
-## Functioning
+### How to use
 
 1. Enter the path
 2. Choose to delete another folder
