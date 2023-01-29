@@ -3,7 +3,7 @@
 The file `.exe` file must be run as administrator.
 
 ### How to use
-1.Download the zip
-2. Enter the path
-3. Choose to delete another folder
-4. Choose whether to close the program or not
+1. Download the zip
+2. Extract folders to a folder of your choice
+3. The shortcut file you find you can put it on the desktop
+4. Open the link file
