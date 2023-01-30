@@ -1,4 +1,4 @@
-# 🚨Avviso🚨
+# 🚨Attention🚨
 
 The file `.exe` must be run as administrator.
 
