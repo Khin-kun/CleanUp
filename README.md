@@ -2,6 +2,9 @@
 
 The file `.exe` must be run as administrator.
 
+###⚠️Requirements⚠️
+Have python in your pc
+
 ### 👉How to use 
 1. Download the zip
 2. Extract folders to a folder of your choice
