@@ -13,5 +13,5 @@ The file `.exe` must be run as administrator.
 
 # CHANGELOG 
    [+] Delete only files of all types.<br>
-   [+] Deleting folders without seeing them on the trash.
+   [+] Deleting folders without seeing them on the trash.<br>
    [-] Fix the bug
