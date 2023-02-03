@@ -2,8 +2,8 @@
 
 The file `.exe` must be run as administrator.
 
-### ⚠️Requirements⚠️
-1. Have python in your pc
+### ⚠️Requirements⚠️ <br>
+ Have python in your pc
 
 ### 👉How to use 
 1. Download the zip
