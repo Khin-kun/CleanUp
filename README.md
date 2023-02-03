@@ -3,7 +3,7 @@
 The file `.exe` must be run as administrator.
 
 ### ⚠️Requirements⚠️ <br>
-  - Have python in your pc
+  - Have [Python](https://www.python.org/downloads/) in your pc
 
 ### 👉How to use 
 1. Download the zip
