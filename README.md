@@ -14,6 +14,6 @@ The file `.exe` must be run as administrator.
 # Download
 
 <a  href="https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar" download>
-  <img src='https://github.com/Khin-kun/CleanUpDownload/blob/main/winicon.png' height='19'>
+  <img src='https://github.com/Khin-kun/CleanUpDownload/blob/main/win.png' height='16.5'>
     <button style='text-decoration:none;'>CleanUp</button>
 </a>
