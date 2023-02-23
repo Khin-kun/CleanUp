@@ -12,11 +12,11 @@ The file `.exe` must be run as administrator.
 4. Open the link file
 
 # Download
-
-<a href="https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar" download>
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.com/Khin-kun/CleanUpDownload/raw/main/win.png" height="16.5">
-    <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
-  </div>
-</a>
+### v0.4.0
+  <a href="https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar" download>
+    <div style="display: flex; align-items: center;">
+      <img src="https://github.com/Khin-kun/CleanUpDownload/raw/main/win.png" height="16.5">
+      <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
+    </div>
+  </a>
 
