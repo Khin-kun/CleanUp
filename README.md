@@ -11,7 +11,7 @@ The file `.exe` must be run as administrator.
 3. The shortcut file you find you can put it on the desktop
 4. Open the link file
 
-# Download
+# 📥 Download 📥
 ### v0.4.0
   <a href="https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar" download>
     <div style="display: flex; align-items: center;">
@@ -19,4 +19,3 @@ The file `.exe` must be run as administrator.
       <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
     </div>
   </a>
-
