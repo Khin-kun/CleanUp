@@ -12,5 +12,6 @@ The file `.exe` must be run as administrator.
 4. Open the link file
 
 # Download
-[Download CleanUp.exe]https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar
-
+<a href="https://github.com/Khin-kun/CleanUpDownload/raw/main/CleanUpExe.rar" download>
+  <button>Download CleanUp.exe</button>
+</a>
