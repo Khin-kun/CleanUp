@@ -6,12 +6,12 @@ The file `.exe` must be run as administrator.
   - Have [Python](https://www.python.org/downloads/) in your pc
 
 ### 👉How to use 
-1. [Download](# 📥 Download 📥) the zip
+1. Download the zip
 2. Extract folders to a folder of your choice
 3. The shortcut file you find you can put it on the desktop
 4. Open the link file
 
-# 📥 Download 📥
+#  <a name="download"></a>📥 Download 📥
 ### v0.4.0
 <a href="https://mega.nz/file/snoCSDxZ#cu_JHWslCE6Z60w5hAu60U1EFgMjjvcB_Sgx5q10HA4" download="CleanUpExe.rar">
     <div style="display: flex; align-items: center;">
