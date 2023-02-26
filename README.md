@@ -29,6 +29,6 @@ The file `.exe` must be run as administrator.
         <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
     </div>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete file
-&nbsp;&nbsp;&nbsp;&nbsp; [+] Exit button
-&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete folder
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete file  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Exit button  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete folder  <br>
