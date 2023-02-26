@@ -27,4 +27,3 @@ The file `.exe` must be run as administrator.
         <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
     </div>
 </a>
-
