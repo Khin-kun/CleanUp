@@ -19,6 +19,8 @@ The file `.exe` must be run as administrator.
         <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
     </div>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp; [+] flix bug
+
 
 ### v0.4.0
 <a href="https://mega.nz/file/snoCSDxZ#cu_JHWslCE6Z60w5hAu60U1EFgMjjvcB_Sgx5q10HA4" download="CleanUpExe.rar">
@@ -27,3 +29,6 @@ The file `.exe` must be run as administrator.
         <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
     </div>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete file
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Exit button
+&nbsp;&nbsp;&nbsp;&nbsp; [+] Delete folder
